@@ -1,4 +1,4 @@
-# TP .Net Week 3 SQL
+# SQL DB Design
 
 This project is an example of using MSSQL and SQL Queries.
 
