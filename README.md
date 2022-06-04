@@ -19,7 +19,7 @@ This project is an example of using MSSQL and SQL Queries.
 ## Design
 - To Create the DB first, we need to execute;
 ```c
-	CREATE DATABASE SocialNetworkDB;
+CREATE DATABASE SocialNetworkDB;
 ```
 
 - To add the tables, please click this [link!](https://github.com/mhtaldmr/hafta3-mhtaldmr/blob/main/Database/tables_creation.sql)
